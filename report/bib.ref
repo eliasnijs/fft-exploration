@@ -1,0 +1,20 @@
+%k patricia
+%0 Journal Article
+%T PATRICIA - practical algorithm to retrieve information coded in alphanumeric
+%A Morrison, Donald R
+%J Journal of the ACM (JACM)
+%V 15
+%N 4
+%P 514-534
+%@ 0004-5411
+%D 1968
+%I ACM New York, NY, USA
+
+%k ternary
+%0 Conference Proceedings
+%T Fast algorithms for sorting and searching strings
+%A Bentley, Jon L
+%A Sedgewick, Robert
+%B Proceedings of the eighth annual ACM-SIAM symposium on Discrete algorithms
+%P 360-369
+%D 1997
